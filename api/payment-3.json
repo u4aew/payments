@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "categoryId": 1,
+  "title": "Теле 2",
+  "category": "Мобильная связь",
+  "min": 10,
+  "max": 15000,
+  "typePayment": 1
+}

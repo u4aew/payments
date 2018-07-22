@@ -1,0 +1,46 @@
+.button {
+   cursor pointer
+   user-select none
+   box-sizing border-box
+   vertical-align top
+   display inline-block
+   align-items center
+   justify-content center
+   position relative
+   padding 0 30px
+   border 2px solid #3d96ce
+   outline none
+   background-color #3d96ce
+   color white
+   font-style normal
+   font-weight 600
+   letter-spacing 0
+   text-align center
+   text-transform none
+   text-decoration none
+   border-radius 50px
+   background-image: linear-gradient(to bottom left, #3D96CE 0%, #3D98D1 100%);
+   box-shadow 0 10px 15px 0 rgba(#3d96ce, 0.2)
+   transition .3s ease
+   &__content {
+      display flex
+      align-items center
+      justify-content center
+   }
+   &__title {
+      padding 15px 0 14px
+   }
+   &:hover {
+      opacity 0.8
+      transform translateY(-2px)
+   }
+   &:active {
+      opacity 1
+      transform translateY(0)
+      box-shadow 0 10px 15px 0 rgba(#3d96ce, 0)
+   }
+   &:focus {
+      transform translateY(-2px)
+   }
+
+}

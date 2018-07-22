@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "categoryId": 1,
+  "title": "МТС",
+  "category": "Мобильная связь",
+  "min": 10,
+  "max": 15000,
+  "typePayment":1
+}

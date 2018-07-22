@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "title": "Мобильная связь",
+  "servicesChildren": [
+    {
+      "id": 1,
+      "name": "МТС",
+      "image": "test.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Билайн",
+      "image": "test.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Теле2",
+      "image": "test.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "categoryId": 1,
+    "serviceId": 1,
+    "serviceTitle": "МТС",
+    "categoryTitle": "Мобильная связь",
+    "sum": 150,
+    "date": "22/02/2018"
+  },
+  {
+    "id": 3,
+    "categoryId": 2,
+    "serviceId": 1,
+    "serviceTitle": "ТТК",
+    "categoryTitle": "Интернет",
+    "sum": 300,
+    "date": "25/07/2018"
+  },
+  {
+    "id": 2,
+    "categoryId": 2,
+    "serviceId": 1,
+    "serviceTitle": "Дом РУ",
+    "categoryTitle": "Интернет",
+    "sum": 700,
+    "date": "28/07/2018"
+  },
+  {
+    "id": 1,
+    "categoryId": 1,
+    "serviceId": 1,
+    "serviceTitle": "МТС",
+    "categoryTitle": "Мобильная связь",
+    "sum": 200,
+    "date": "06/06/2018"
+  }
+]

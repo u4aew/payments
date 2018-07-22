@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "title": "Интернет",
+  "servicesChildren": [
+    {
+      "id": 4,
+      "name": "ТТК",
+      "image": "test.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ДОМ РУ",
+      "image": "test.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ростелеком",
+      "image": "test.jpg"
+    }
+  ]
+}

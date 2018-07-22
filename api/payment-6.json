@@ -1,0 +1,9 @@
+{
+  "id": 6,
+  "categoryId": 2,
+  "title": "Ростелеком",
+  "category": "Интернет",
+  "min": 10,
+  "max": 15000,
+  "typePayment": 2
+}
