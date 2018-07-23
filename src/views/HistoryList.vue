@@ -37,8 +37,8 @@
                                                 <select v-model="sortType" v-on:change="sort($event.target.value)">
                                                     <option selected value="dateAsc">дате (старые)</option>
                                                     <option value="dateDesc">дате (новые)</option>
-                                                    <option value="sumDesc">сумме (возврастание)</option>
-                                                    <option value="sumAsc">сумме (убывание)</option>
+                                                    <option value="sumDesc">сумме (убывание)</option>
+                                                    <option value="sumAsc">сумме (возврастание)</option>
                                                 </select>
                                             </div>
                                         </div>
